@@ -1,3 +1,9 @@
+/*
+Name: Carl Oliver
+Admission Number: BCS-05-0067/2026
+Description: Program to calculate Book return details
+Version: 1
+*/
 #include <stdio.h>
 
 int main()
