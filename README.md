@@ -5,4 +5,10 @@ Volume and Surface Area of a cylinder,
 Exam Eligibility Program,
 Water bill Calculation,
 Data bundle purchase program,
-For Loop CountDown
+For Loop CountDown,
+Bank Transaction While Loop,
+Guessing Game While Loop,
+Do While Password,
+Electrical Bill Calculation,
+Fare Calculation,
+Fahrenheit to Celsius Conversion
