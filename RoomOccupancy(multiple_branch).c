@@ -1,3 +1,8 @@
+/* 
+Name: Carl Oliver
+Admission Number: BCS-05-0067/2026
+Description: Water Bill Calculator
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
