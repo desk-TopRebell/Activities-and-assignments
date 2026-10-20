@@ -12,3 +12,6 @@ Do While Password,
 Electrical Bill Calculation,
 Fare Calculation,
 Fahrenheit to Celsius Conversion
+Array 1D Weekly Revenue Tracker
+Array 2D Room Occupancy 
+Array 3D Room Occupancy multiple branch
