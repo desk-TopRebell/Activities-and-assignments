@@ -1,7 +1,7 @@
 /* 
 Name: Carl Oliver
 Admission Number: BCS-05-0067/2026
-Description: Water Bill Calculator
+Description: Room Occupancy array single branch
 */
 #include <stdio.h>
 #include <stdlib.h>
