@@ -1,7 +1,7 @@
 /* 
 Name: Carl Oliver
 Admission Number: BCS-05-0067/2026
-Description: Water Bill Calculator
+Description: Weekly Revenue Tracker Array
 */
 #include <stdio.h>
 
