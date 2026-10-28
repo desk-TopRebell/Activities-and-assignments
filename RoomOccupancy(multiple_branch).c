@@ -4,15 +4,12 @@ Admission Number: BCS-05-0067/2026
 Description: Room Occupancy Multiple Branches
 */
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 int main() {
     int chain[3][5][10];
     int branch, floor, room;
     int totalOccupied = 0;
 
-    srand(time(NULL));
 
     // Assign random occupancy
     for(branch = 0; branch < 3; branch++) {
