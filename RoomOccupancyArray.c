@@ -4,8 +4,6 @@ Admission Number: BCS-05-0067/2026
 Description: Room Occupancy array single branch
 */
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 int main() {
     int occupancy[5][10];
