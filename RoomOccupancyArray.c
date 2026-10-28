@@ -10,8 +10,6 @@ int main() {
     int floor, room;
     int occupied, vacant;
 
-    srand(time(NULL));
-
     // Generate random occupancy data
     for(floor = 0; floor < 5; floor++) {
         for(room = 0; room < 10; room++) {
